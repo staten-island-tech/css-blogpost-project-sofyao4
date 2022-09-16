@@ -1,11 +1,3 @@
 body {
-  background-color: red;
-  color: aquamarine;
-  font-size: 25px;
-}
-p {
-  color: white;
-}
-.main-paragraph {
-  color: teal;
+  text-align: center;
 }
