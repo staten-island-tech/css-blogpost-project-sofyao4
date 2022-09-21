@@ -3,13 +3,35 @@ body {
   font-family: 'Dosis', sans-serif;
   background-color: burlywood;
 }
-h1 {
-  margin-bottom: 80px;
-  margin-top: 60px;
+  #blog-header {
+
+  background-color: darksalmon;
+  padding: 15px;
+  margin: 40px 30%;
+  border-radius: 40px;
+  color: saddlebrown;
  
 }
-.blogheader {
-  bacco
-  height: 60vh;
 
+.post {
+background-color: blanchedalmond;
+padding-top: 20px;
+padding-bottom: 30px;
+margin-bottom: 30px;
+margin-left: 30%;
+margin-right: 30%;
+border-radius: 40px;
+color: maroon;
+
+
+}
+#post-paragraph {
+
+  padding-top: 15px;
+
+}
+.post img {
+
+  width: 75%;
+  height: auto;
 }
